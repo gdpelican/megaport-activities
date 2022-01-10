@@ -1,10 +1,8 @@
-# Megaport test activity
-
 This displays a list of desserts from a static file, stored in `src/fixtures/rows.json`
 
 It uses the colors stored in `src/fixtures/theme.json`
 
-## Project setup
+#### Usage
 
 To set up and run locally:
 
