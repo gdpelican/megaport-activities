@@ -7,7 +7,8 @@ It uses the colors stored in `src/fixtures/theme.json`
 To set up and run locally:
 
 ```bash
-yarn install # install dependencies
+cd activity-1
+yarn # install dependencies
 yarn serve # begin development server
 ```
 
